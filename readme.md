@@ -11,9 +11,7 @@ Allar síður fyrir utan forsíðu skulu vera innan `pages/` möppu, sjá gefið
 
 ## Forsíða
 
-* Forsíða, `index.html`, með einhverjum texta ásamt tengli yfir á aðra síðu
-* Síða um nemanda, `about.html`, þar sem fram kemur nafn, netfang og mynd (þurfa ekki að vera þínar upplýsingar!) ásamt tengli yfir á forsíðu
-  - Mynd skal geymd í möppu sem heitir `img/`
+Inniheldur titil, valmynd og ekkert meira (nema þið viljið skrifa eitthvað um veðrið.)
 
 ## Valmynd
 
