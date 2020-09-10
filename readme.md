@@ -59,7 +59,7 @@ Fyrir neðan texta skal vera lína (`<hr>`) og eftirfarandi texti:
 
 og skal textinn tengja í `https://www.vedur.is/vedur/frodleikur/greinar/nr/2532`.
 
-Vísað er í myndir undir img/, mynd er fengin frá WikiMedia Commons. Laga þarf slóð á mynd á HTML skrá, ekki skal færa img/ möppu. Titill myndar í Markdown skjali skal birta fyrir neðan mynd, [sjá hvernig birting er á upprunalegu grein](https://www.vedur.is/vedur/frodleikur/greinar/nr/2532) (ekki þarf að láta mynd birtast til hliðar).
+Vísað er í myndir undir img/. Laga þarf slóð á mynd á HTML skrá, ekki skal færa img/ möppu. Titill myndar í Markdown skjali skal birta fyrir neðan mynd, [sjá hvernig birting er á upprunalegu grein](https://www.vedur.is/vedur/frodleikur/greinar/nr/2532) (ekki þarf að láta mynd birtast til hliðar).
 
 ## Almennt
 
