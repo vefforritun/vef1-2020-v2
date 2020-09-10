@@ -89,7 +89,7 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 31. ágúst 2020.
 
 ## Skil
 
-Skila skal í Canvas í seinasta lagi fyrir lok dags mánudaginn 8. september 2020.
+Skila skal í Canvas í seinasta lagi fyrir lok dags föstudaginn 11. september 2020.
 
 Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn.
 
@@ -106,3 +106,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 | Útgáfa | Lýsing                              |
 |--------|-------------------------------------|
 | 0.1    | Fyrsta útgáfa                       |
+| 0.2    | Uppfæra skiladag, bæta við skjáskotum                       |
